@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-# batata-bit
-Cryptocurrency landing page project 
-=======
-# batata-bit-master
-Sitio Web responsivo Mobile First
->>>>>>> 391a97a03353d74dc120e3e8b7b551972e6c35ca
+# Batatabit 
+> Este es un proyecto creado a partir del curso de Responsive Design de platzi 
+
+Fué creado con la intención de aprender **First Mobile**
